@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Home</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./css/style.css">
+        
+		<script src="https://dfilittobot.herokuapp.com/assets/modules/channel-web/inject.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <a href="https://darleim.github.io" class="branch"><img src="./img/logo.png" alt="Minha logo" title="Nome da minha logo"></a>
+                <nav class="menu">
+                </nav>
+            </div>
+        </header>
+
+        <main class="container">
+            <article class="super-card">
+                <section class="super-card-img">
+                    <img src="./img/danilofilitto.jpg" alt="Foto do Darlei Michalski Lambrecht", title="Darlei Michalski Lambrecht">
+                    <h2>Darlei Michalski Lambrecht</h2>
+                </section>
+                <section class="super-card-text">
+                    <p>
+                        Meu nome é Darlei Michalski Lambrecht, sou engenheiro agrônomo formado pela 
+                        Universidade Federal de Santa Maria - UFSM e atualmente estou realizando 
+                        pós-graduação em mestrado de agronomia na UFSM.
+                    </p>
+                    </section>
+            </article>
+        </main>
+    </body>
+</html>
